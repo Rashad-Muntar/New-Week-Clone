@@ -1,1 +1,1 @@
-# New-Week-Clone
+# News-Week-Clone
