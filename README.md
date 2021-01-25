@@ -2,7 +2,7 @@
 
 # Project 3: Using Bootstrap milestone 1
 
-> This project consists of making a copy of the Newsweek website putting emphasis on bootstrap usage.
+> This project consists of making a copy of the Newsweek website putting emphasis on bootstrap usage and effect.
 
 ![screenshot](./assets/images/screenshot.PNG)
 
